@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Word Recognition using CNN</title>
 </head>
 <body>
     <h1>🧠 Word Recognition using CNN</h1>
